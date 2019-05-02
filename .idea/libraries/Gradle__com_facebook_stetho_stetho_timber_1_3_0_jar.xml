@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.stetho:stetho-timber:1.3.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-timber/1.3.0/d5d2608d32eb928f00b355507ad60055c9d35b45/stetho-timber-1.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-timber/1.3.0/e41b607b634ffdb8e4517f2d67414ddcdee28062/stetho-timber-1.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
